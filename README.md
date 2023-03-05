@@ -1,2 +1,0 @@
-# OIBSIP
-For my Internship
